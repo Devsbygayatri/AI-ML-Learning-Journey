@@ -37,7 +37,7 @@ A Scikit-Learn `Pipeline` is constructed to chain the `StandardScaler` and `KNei
 
 ## Results
 
-The final pipeline model, optimized specifically for Recall, yielded the following performance metrics on the unseen test set:
+The final pipeline model, optimized specifically for Recall, yielded the following performance metrics on the unseen test set:-
 
 | Metric | Score |
 | :--- | :--- |
