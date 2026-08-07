@@ -48,4 +48,4 @@ The final pipeline model, optimized specifically for Recall, yielded the followi
 
 ## Usage
 
-To run this project, simply place the `1-heart.csv` file in the same directory as the Jupyter Notebook, install the required dependencies, and execute the cells sequentially.
+To run this project, simply place the `1-heart.csv` file in the same directory as the Jupyter Notebook, install the required dependencies, and execute the cells sequentially..
